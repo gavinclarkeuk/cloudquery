@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-okta-v1.3.14...plugins-source-okta-v1.4.0) (2022-12-05)
+
+
+### Features
+
+* **website:** Add plugins tables ([#5259](https://github.com/cloudquery/cloudquery/issues/5259)) ([c336f4e](https://github.com/cloudquery/cloudquery/commit/c336f4e25e192ffdd4c211d4a35b67b71d01d1f8))
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/okta/okta-sdk-golang/v2 to v2.16.0 ([#5228](https://github.com/cloudquery/cloudquery/issues/5228)) ([271515b](https://github.com/cloudquery/cloudquery/commit/271515bebc6b015e37d1c47b67b762c975f9a213))
+
 ## [1.3.14](https://github.com/cloudquery/cloudquery/compare/plugins-source-okta-v1.3.13...plugins-source-okta-v1.3.14) (2022-11-30)
 
 
