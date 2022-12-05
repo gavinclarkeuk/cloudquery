@@ -5,6 +5,21 @@ All notable changes to this provider will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-azure-v1.4.10...plugins-source-azure-v1.5.0) (2022-12-05)
+
+
+### Features
+
+* **website:** Add plugins tables ([#5259](https://github.com/cloudquery/cloudquery/issues/5259)) ([c336f4e](https://github.com/cloudquery/cloudquery/commit/c336f4e25e192ffdd4c211d4a35b67b71d01d1f8))
+
+
+### Bug Fixes
+
+* **deps:** Update golang.org/x/exp digest to 6ab00d0 ([#5200](https://github.com/cloudquery/cloudquery/issues/5200)) ([66a8ae4](https://github.com/cloudquery/cloudquery/commit/66a8ae439b643f01bd1d72f091b9abe04ab1013b))
+* **deps:** Update module github.com/Azure/azure-sdk-for-go/sdk/azcore to v1.2.0 ([#5211](https://github.com/cloudquery/cloudquery/issues/5211)) ([46b470e](https://github.com/cloudquery/cloudquery/commit/46b470e93e24bd37789b8d85e6c5e0251629517b))
+* **deps:** Update module github.com/Azure/azure-sdk-for-go/sdk/azidentity to v1.2.0 ([#5212](https://github.com/cloudquery/cloudquery/issues/5212)) ([64c1802](https://github.com/cloudquery/cloudquery/commit/64c18026118ff2b926229ec3f50e54fd82956838))
+* **deps:** Update module github.com/gofrs/uuid to v4.3.1 ([#5204](https://github.com/cloudquery/cloudquery/issues/5204)) ([1ca1bdc](https://github.com/cloudquery/cloudquery/commit/1ca1bdceeeef21cbc1256b58effe0c103580dee0))
+
 ## [1.4.10](https://github.com/cloudquery/cloudquery/compare/plugins-source-azure-v1.4.9...plugins-source-azure-v1.4.10) (2022-11-30)
 
 
