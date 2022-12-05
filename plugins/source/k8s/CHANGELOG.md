@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.5.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-k8s-v2.4.4...plugins-source-k8s-v2.5.0) (2022-12-05)
+
+
+### Features
+
+* **website:** Add plugins tables ([#5259](https://github.com/cloudquery/cloudquery/issues/5259)) ([c336f4e](https://github.com/cloudquery/cloudquery/commit/c336f4e25e192ffdd4c211d4a35b67b71d01d1f8))
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/google/gnostic to v0.6.9 ([#5225](https://github.com/cloudquery/cloudquery/issues/5225)) ([a58c2de](https://github.com/cloudquery/cloudquery/commit/a58c2de01f0726e22b51eaaea39dbb6b8eb86e78))
+
 ## [2.4.4](https://github.com/cloudquery/cloudquery/compare/plugins-source-k8s-v2.4.3...plugins-source-k8s-v2.4.4) (2022-11-30)
 
 
